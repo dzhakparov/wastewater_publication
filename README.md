@@ -8,8 +8,8 @@ Each directory contains following subdirectories:
 2. _voc_ - contains variant definitions provided by Vpipe
 
 ## *scripts*
-Contains scripts to organize the sample folder and run Vpipe
-Other files in the directory:
+Contains scripts to organize the sample folder and run Vpipe  
+## Other files
 1. _config.yaml_ - a configuration file for the Vpipe
 2. _regex.yaml_ - a yaml file containing regex expression to extract sample names
 3. _samples.tsv_ - a tsv file containing sample information as required by Vpipe
