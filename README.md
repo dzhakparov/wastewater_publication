@@ -4,7 +4,7 @@ The project contains two folders: 2022 and 2023 for samples that were sequenced 
 The data analysis was done according to the official Vpipe tutorial [link] and a specitifc guide [link] for waste water analysis branch "ninjaturtles" by Dr. Ivan Topolsky. 
 Each directory contains following subdirectories: 
 - *references*
- _presets_ - contains deconvolution preset yaml file to run Lollipop
+_presets_ - contains deconvolution preset yaml file to run Lollipop
 _voc_ - contains variant definitions provided by Vpipe
 - *scripts*
 Contains scripts to organize the sample folder and run Vpipe
