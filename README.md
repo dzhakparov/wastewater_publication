@@ -1,4 +1,4 @@
-# wastewater_publication
+# Presets and config files to run Waste Water Analysis on Davos and Schanf samples
 A code and config files for Covid Waste Water publication
 The project contains two folders: 2022 and 2023 for samples that were sequenced in May, 2022 (dir 2022) and January, 2023 (dir 2023) respectively. 
 The data analysis was done according to the official Vpipe tutorial [link] and a specitifc guide [link] for waste water analysis branch "ninjaturtles" by Dr. Ivan Topolsky. 
