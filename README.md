@@ -3,11 +3,11 @@ A code and config files for Covid Waste Water publication
 The project contains two folders: 2022 and 2023 for samples that were sequenced in May, 2022 (dir 2022) and January, 2023 (dir 2023) respectively. 
 The data analysis was done according to the official Vpipe tutorial [link] and a specitifc guide [link] for waste water analysis branch "ninjaturtles" by Dr. Ivan Topolsky. 
 Each directory contains following subdirectories: 
-##*references*   
+## *references*   
 1. _presets_ - contains deconvolution preset yaml file to run Lollipop
 2. _voc_ - contains variant definitions provided by Vpipe
 
-##*scripts*
+## *scripts*
 Contains scripts to organize the sample folder and run Vpipe
 Other files in the directory:
 1. _config.yaml_ - a configuration file for the Vpipe
