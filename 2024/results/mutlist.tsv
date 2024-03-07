@@ -1,0 +1,209 @@
+position	reference	variant	gene	ombba286	omxbb15
+21	C	T		mut	NA
+241	C	T		mut	mut
+405	A	G	ORF1ab	NA	mut
+670	T	G	ORF1ab	mut	mut
+897	C	A	ORF1ab	mut	NA
+2790	C	T	ORF1ab	mut	mut
+3037	C	T	ORF1ab	mut	mut
+3431	G	T	ORF1ab	mut	NA
+3565	T	C	ORF1ab	mut	NA
+4184	G	A	ORF1ab	mut	mut
+4321	C	T	ORF1ab	mut	mut
+6183	A	G	ORF1ab	mut	NA
+7842	A	G	ORF1ab	mut	NA
+8293	C	T	ORF1ab	mut	NA
+8393	G	A	ORF1ab	mut	NA
+9344	C	T	ORF1ab	mut	mut
+9424	A	G	ORF1ab	mut	mut
+9534	C	T	ORF1ab	mut	mut
+9866	C	T	ORF1ab	NA	mut
+10029	C	T	ORF1ab	mut	mut
+10198	C	T	ORF1ab	mut	mut
+10447	G	A	ORF1ab	mut	mut
+10449	C	A	ORF1ab	mut	mut
+11042	G	T	ORF1ab	mut	NA
+11288	N	-	ORF1ab	mut	mut
+11289	N	-	ORF1ab	mut	mut
+11290	N	-	ORF1ab	mut	mut
+11291	N	-	ORF1ab	mut	mut
+11292	N	-	ORF1ab	mut	mut
+11293	N	-	ORF1ab	mut	mut
+11294	N	-	ORF1ab	mut	mut
+11295	N	-	ORF1ab	mut	mut
+11296	N	-	ORF1ab	mut	mut
+11727	G	A	ORF1ab	mut	NA
+12789	C	T	ORF1ab	mut	NA
+12815	C	T	ORF1ab	mut	NA
+12880	C	T	ORF1ab	mut	mut
+13339	T	C	ORF1ab	mut	NA
+14408	C	T	ORF1ab	mut	mut
+15451	G	A	ORF1ab	NA	mut
+15714	C	T	ORF1ab	mut	mut
+15738	C	T	ORF1ab	NA	mut
+15756	T	A	ORF1ab	mut	NA
+15939	T	C	ORF1ab	NA	mut
+16342	T	C	ORF1ab	NA	mut
+17124	T	C	ORF1ab	NA	mut
+17410	C	T	ORF1ab	mut	mut
+17859	T	C	ORF1ab	NA	mut
+18163	A	G	ORF1ab	mut	mut
+18492	A	G	ORF1ab	mut	NA
+18894	C	T	ORF1ab	mut	NA
+19326	A	G	ORF1ab	NA	mut
+19955	C	T	ORF1ab	mut	mut
+20055	A	G	ORF1ab	mut	mut
+21618	C	T	S	mut	mut
+21622	C	T	S	mut	NA
+21624	G	C	S	mut	NA
+21633	N	-	S	mut	mut
+21634	N	-	S	mut	mut
+21635	N	-	S	mut	mut
+21636	N	-	S	mut	mut
+21637	N	-	S	mut	mut
+21638	N	-	S	mut	mut
+21639	N	-	S	mut	mut
+21640	N	-	S	mut	mut
+21641	N	-	S	mut	mut
+21711	C	T	S	mut	NA
+21765	N	-	S	mut	NA
+21766	N	-	S	mut	NA
+21767	N	-	S	mut	NA
+21768	N	-	S	mut	NA
+21769	N	-	S	mut	NA
+21770	N	-	S	mut	NA
+21810	T	C	S	NA	mut
+21941	G	T	S	mut	NA
+21987	G	A	S	mut	mut
+21992	N	-	S	mut	mut
+21993	N	-	S	mut	mut
+21994	N	-	S	mut	mut
+22000	C	A	S	NA	mut
+22032	T	C	S	mut	NA
+22033	C	A	S	mut	NA
+22034	A	G	S	mut	NA
+22109	C	G	S	NA	mut
+22194	N	-	S	mut	NA
+22195	N	-	S	mut	NA
+22196	N	-	S	mut	NA
+22200	T	A	S	NA	mut
+22200	T	G	S	mut	NA
+22208	C	T	S	mut	NA
+22295	C	A	S	mut	NA
+22317	G	T	S	NA	mut
+22353	C	A	S	mut	NA
+22556	A	G	S	mut	NA
+22577	G	C	S	mut	mut
+22578	G	A	S	mut	mut
+22599	G	C	S	NA	mut
+22629	A	C	S	mut	NA
+22664	C	A	S	NA	mut
+22674	C	T	S	mut	mut
+22679	T	C	S	mut	mut
+22686	C	T	S	mut	mut
+22688	A	G	S	mut	mut
+22770	G	A	S	mut	NA
+22775	G	A	S	mut	mut
+22786	A	C	S	mut	mut
+22813	G	T	S	mut	mut
+22882	T	G	S	mut	mut
+22895	G	C	S	mut	mut
+22896	T	A	S	mut	NA
+22896	T	C	S	NA	mut
+22898	G	A	S	mut	mut
+22910	A	G	S	mut	NA
+22916	C	T	S	mut	NA
+22917	T	G	S	mut	NA
+22926	T	C	S	mut	NA
+22942	T	A	S	mut	NA
+22942	T	G	S	NA	mut
+22992	G	A	S	mut	mut
+22995	C	A	S	mut	mut
+23005	T	A	S	mut	NA
+23009	N	-	S	mut	NA
+23010	N	-	S	mut	NA
+23012	G	A	S	mut	NA
+23013	A	C	S	NA	mut
+23018	T	C	S	mut	mut
+23019	T	C	S	mut	mut
+23031	T	C	S	NA	mut
+23055	A	G	S	mut	mut
+23063	A	T	S	mut	mut
+23075	T	C	S	mut	mut
+23222	G	A	S	mut	NA
+23271	C	T	S	mut	NA
+23403	A	G	S	mut	mut
+23423	C	T	S	mut	NA
+23525	C	T	S	mut	mut
+23599	T	G	S	mut	mut
+23604	C	A	S	NA	mut
+23604	C	G	S	mut	NA
+23854	C	A	S	mut	mut
+23948	G	T	S	mut	mut
+24378	C	T	S	mut	NA
+24424	A	T	S	mut	mut
+24469	T	A	S	mut	mut
+24990	C	T	S	mut	NA
+25000	C	T	S	mut	mut
+25207	C	T	S	mut	NA
+25416	C	T	ORF3a	NA	mut
+25584	C	T	ORF3a	mut	mut
+26060	C	T	ORF3a	mut	mut
+26270	C	T	E	mut	mut
+26275	A	G	E	NA	mut
+26529	G	C	M	mut	NA
+26577	C	G	M	mut	mut
+26610	A	G	M	mut	NA
+26681	C	T	M	mut	NA
+26709	G	A	M	mut	mut
+26833	C	T	M	mut	NA
+26858	C	T	M	mut	mut
+27259	A	C	ORF6	mut	mut
+27382	G	C	ORF6	mut	mut
+27383	A	T	ORF6	mut	mut
+27384	T	C	ORF6	mut	mut
+27807	C	T	ORF7b	mut	mut
+27810	T	C	ORF7b	mut	NA
+27915	G	T	ORF8	NA	mut
+28271	A	T		mut	mut
+28311	C	T	N	mut	mut
+28362	N	-	N	mut	mut
+28363	N	-	N	mut	mut
+28364	N	-	N	mut	mut
+28365	N	-	N	mut	mut
+28366	N	-	N	mut	mut
+28367	N	-	N	mut	mut
+28368	N	-	N	mut	mut
+28369	N	-	N	mut	mut
+28370	N	-	N	mut	mut
+28881	G	A	N	mut	mut
+28882	G	A	N	mut	mut
+28883	G	C	N	mut	mut
+28958	C	A	N	mut	NA
+29510	A	C	N	mut	mut
+29734	N	-		mut	mut
+29735	N	-		mut	mut
+29736	N	-		mut	mut
+29737	N	-		mut	mut
+29738	N	-		mut	mut
+29739	N	-		mut	mut
+29740	N	-		mut	mut
+29741	N	-		mut	mut
+29742	N	-		mut	mut
+29743	N	-		mut	mut
+29744	N	-		mut	mut
+29745	N	-		mut	mut
+29746	N	-		mut	mut
+29747	N	-		mut	mut
+29748	N	-		mut	mut
+29749	N	-		mut	mut
+29750	N	-		mut	mut
+29751	N	-		mut	mut
+29752	N	-		mut	mut
+29753	N	-		mut	mut
+29754	N	-		mut	mut
+29755	N	-		mut	mut
+29756	N	-		mut	mut
+29757	N	-		mut	mut
+29758	N	-		mut	mut
+29759	N	-		mut	mut

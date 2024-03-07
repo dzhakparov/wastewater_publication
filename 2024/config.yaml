@@ -1,0 +1,33 @@
+general:
+    virus_base_config: 'sars-cov-2'
+    # e.g: 'hiv', 'sars-cov-2', or absent
+    primer_trimmer: samtools
+    aligner: minimap
+    reprocessor: skip
+
+input:
+    datadir: samples/
+    samples_file: samples.tsv
+    variants_def_directory: references/voc/
+
+output:
+    datadir: results/
+    trim_primers: true
+    # see: config/README.md#amplicon-protocols
+    snv: false
+    local: false
+    global: false
+    visualization: false
+    diversity: false
+    QA: false
+    upload: false
+    dehumanized_raw_reads: false
+
+timeline: 
+    regex_yaml: regex.yaml 
+    
+deconvolution:
+    threads: 8 
+    deconvolution_config: references/presets/deconv_bootstrap_cowwid.yaml 
+    variants_dates: references/var_dates.yaml
+    variants_config: results/variants_pangolin.yaml 

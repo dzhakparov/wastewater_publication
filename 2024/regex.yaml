@@ -1,0 +1,2 @@
+sample: '(?P<location>\w+)_(?P<year>20\d{2})(?P<month>\d{2})(?P<day>\d{2})'
+datefmt: "%Y%m%d"

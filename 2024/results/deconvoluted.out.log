@@ -1,0 +1,28 @@
+load data
+NOTE: No location fullnames, using codes instead
+['davos', 'schanf']
+from 2024-01-08 to 2024-01-10: ['BA.2.86', 'XBB.1.5']
+from 2024-01-10 to 2024-01-15: ['BA.2.86', 'XBB.1.5']
+from 2024-01-15 to 2024-01-16: ['BA.2.86', 'XBB.1.5']
+from 2024-01-16 to 2024-01-17: ['BA.2.86', 'XBB.1.5']
+from 2024-01-17 to 2024-01-18: ['BA.2.86', 'XBB.1.5']
+from 2024-01-18 to 2024-01-19: ['BA.2.86', 'XBB.1.5']
+from 2024-01-19 to 2024-01-22: ['BA.2.86', 'XBB.1.5']
+from 2024-01-22 onward: ['BA.2.86', 'XBB.1.5']
+preprocess data
+deconvolve all
+ parameters:
+  bootstrap: 100
+  kernel: <class 'lollipop.kernels.GaussianKernel'>
+   params: {'bandwidth': 10}
+  confint: <class 'lollipop.confints.NullConfint'>
+   params: {}
+   name: None
+   non-dummy: False
+  regressor: <class 'lollipop.regressors.RobustReg'>
+   params: {'f_scale': 0.01}
+  deconv:
+   params: {'min_tol': 0.001}
+post-process data
+output data
+output json
